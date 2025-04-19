@@ -1,0 +1,14 @@
+D:\Test\C#\LibararySystem\LibararySystem\obj\Debug\net8.0\LibararySystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\C#\LibararySystem\LibararySystem\obj\Debug\net8.0\LibararySystem.AssemblyInfoInputs.cache
+D:\Test\C#\LibararySystem\LibararySystem\obj\Debug\net8.0\LibararySystem.AssemblyInfo.cs
+D:\Test\C#\LibararySystem\LibararySystem\obj\Debug\net8.0\LibararySystem.csproj.CoreCompileInputs.cache
+D:\Test\C#\LibararySystem\LibararySystem\bin\Debug\net8.0\LibararySystem.exe
+D:\Test\C#\LibararySystem\LibararySystem\bin\Debug\net8.0\LibararySystem.deps.json
+D:\Test\C#\LibararySystem\LibararySystem\bin\Debug\net8.0\LibararySystem.runtimeconfig.json
+D:\Test\C#\LibararySystem\LibararySystem\bin\Debug\net8.0\LibararySystem.dll
+D:\Test\C#\LibararySystem\LibararySystem\bin\Debug\net8.0\LibararySystem.pdb
+D:\Test\C#\LibararySystem\LibararySystem\obj\Debug\net8.0\LibararySystem.dll
+D:\Test\C#\LibararySystem\LibararySystem\obj\Debug\net8.0\refint\LibararySystem.dll
+D:\Test\C#\LibararySystem\LibararySystem\obj\Debug\net8.0\LibararySystem.pdb
+D:\Test\C#\LibararySystem\LibararySystem\obj\Debug\net8.0\LibararySystem.genruntimeconfig.cache
+D:\Test\C#\LibararySystem\LibararySystem\obj\Debug\net8.0\ref\LibararySystem.dll
